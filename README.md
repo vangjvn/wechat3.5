@@ -1,5 +1,5 @@
-# chatgpt_wechat_robot
-个人微信接入ChatGPT，实现和GPT机器人互动聊天。支持私聊回复和群聊艾特回复。
+# chatgpt3.5_wechat_robot
+wechat接入ChatGPT3.5，实现和GPT机器人互动聊天。支持私聊回复和群聊艾特回复。
 
 ### 实现功能
 
@@ -112,7 +112,3 @@ $ go run main.go
   "session_clear_token": "清空会话"  # 会话清空口令，默认`下一个问题`
 }
 ```
-
-### 友情提示
-本项目是 fork 他人的项目来进行学习和使用，请勿商用，可以下载下来做自定义的功能。
-项目基于[openwechat](https://github.com/eatmoreapple/openwechat) 开发。
